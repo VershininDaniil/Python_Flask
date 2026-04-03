@@ -1,0 +1,22 @@
+# Виртуальное окружение
+venv/
+.venv/
+env/
+.env/
+
+# Файлы Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDEA
+.idea/
+*.iml
+
+# Логи и временные файлы
+*.log
+*.tmp
+
+# Файлы с секретами
+config.py
