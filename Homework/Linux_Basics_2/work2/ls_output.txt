@@ -1,0 +1,12 @@
+total 11954
+-rw-r--r-- 1 Даниил 197121     902 Jun 10  2023  AMDRM_Install.log
+-rw-r--r-- 1 Даниил 197121 7602176 Apr  3 17:11  NTUSER.DAT
+-rw-r--r-- 1 Даниил 197121   65536 Apr 22  2024  NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+-rw-r--r-- 1 Даниил 197121  524288 Apr 22  2024  NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+-rw-r--r-- 1 Даниил 197121  524288 Jun 10  2023  NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+-rw-r--r-- 1 Даниил 197121      22 Dec  6 19:21  PrPattern.zip
+-rw-r--r-- 1 Даниил 197121 1961984 Jun 10  2023  ntuser.dat.LOG1
+-rw-r--r-- 1 Даниил 197121 1048576 Jun 10  2023  ntuser.dat.LOG2
+-rw-r--r-- 1 Даниил 197121      20 Jun 10  2023  ntuser.ini
+
+
